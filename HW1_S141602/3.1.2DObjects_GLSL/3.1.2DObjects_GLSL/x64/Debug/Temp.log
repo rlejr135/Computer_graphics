@@ -1,0 +1,10 @@
+﻿  3.1.2DObjects_GLSL.cpp
+c:\users\grmillet\desktop\temp\temp\3.1.2dobjects_glsl.cpp(632): warning C4101: 'delx' :참조되지 않은 지역 변수입니다.
+c:\users\grmillet\desktop\temp\temp\3.1.2dobjects_glsl.cpp(632): warning C4101: 's' :참조되지 않은 지역 변수입니다.
+c:\users\grmillet\desktop\temp\temp\3.1.2dobjects_glsl.cpp(632): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+c:\users\grmillet\desktop\temp\temp\3.1.2dobjects_glsl.cpp(631): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+c:\users\grmillet\desktop\temp\temp\3.1.2dobjects_glsl.cpp(632): warning C4101: 'dels' :참조되지 않은 지역 변수입니다.
+c:\users\grmillet\desktop\temp\temp\3.1.2dobjects_glsl.cpp(632): warning C4101: 'r' :참조되지 않은 지역 변수입니다.
+c:\users\grmillet\desktop\temp\temp\3.1.2dobjects_glsl.cpp(632): warning C4101: 'delr' :참조되지 않은 지역 변수입니다.
+c:\users\grmillet\desktop\temp\temp\3.1.2dobjects_glsl.cpp(791): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  Temp.vcxproj -> C:\Users\grmillet\Desktop\Temp\x64\Debug\Temp.exe

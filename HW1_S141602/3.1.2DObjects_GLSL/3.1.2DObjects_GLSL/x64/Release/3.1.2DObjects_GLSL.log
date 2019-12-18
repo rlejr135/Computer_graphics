@@ -1,0 +1,33 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 중간 디렉터리(x64\Release\)에 다른 프로젝트(Temp.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  3.1.2DObjects_GLSL.cpp
+c:\users\owner\desktop\3.1.2dobjects_glsl\3.1.2dobjects_glsl\3.1.2dobjects_glsl.cpp(407): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\owner\desktop\3.1.2dobjects_glsl\3.1.2dobjects_glsl\3.1.2dobjects_glsl.cpp(407): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\owner\desktop\3.1.2dobjects_glsl\3.1.2dobjects_glsl\3.1.2dobjects_glsl.cpp(408): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\owner\desktop\3.1.2dobjects_glsl\3.1.2dobjects_glsl\3.1.2dobjects_glsl.cpp(408): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\owner\desktop\3.1.2dobjects_glsl\3.1.2dobjects_glsl\3.1.2dobjects_glsl.cpp(410): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\owner\desktop\3.1.2dobjects_glsl\3.1.2dobjects_glsl\3.1.2dobjects_glsl.cpp(410): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\owner\desktop\3.1.2dobjects_glsl\3.1.2dobjects_glsl\3.1.2dobjects_glsl.cpp(412): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\owner\desktop\3.1.2dobjects_glsl\3.1.2dobjects_glsl\3.1.2dobjects_glsl.cpp(412): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\owner\desktop\3.1.2dobjects_glsl\3.1.2dobjects_glsl\3.1.2dobjects_glsl.cpp(415): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\owner\desktop\3.1.2dobjects_glsl\3.1.2dobjects_glsl\3.1.2dobjects_glsl.cpp(415): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\owner\desktop\3.1.2dobjects_glsl\3.1.2dobjects_glsl\3.1.2dobjects_glsl.cpp(416): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\owner\desktop\3.1.2dobjects_glsl\3.1.2dobjects_glsl\3.1.2dobjects_glsl.cpp(416): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\owner\desktop\3.1.2dobjects_glsl\3.1.2dobjects_glsl\3.1.2dobjects_glsl.cpp(417): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\owner\desktop\3.1.2dobjects_glsl\3.1.2dobjects_glsl\3.1.2dobjects_glsl.cpp(417): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\owner\desktop\3.1.2dobjects_glsl\3.1.2dobjects_glsl\3.1.2dobjects_glsl.cpp(418): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\owner\desktop\3.1.2dobjects_glsl\3.1.2dobjects_glsl\3.1.2dobjects_glsl.cpp(418): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\owner\desktop\3.1.2dobjects_glsl\3.1.2dobjects_glsl\3.1.2dobjects_glsl.cpp(419): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\owner\desktop\3.1.2dobjects_glsl\3.1.2dobjects_glsl\3.1.2dobjects_glsl.cpp(419): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\owner\desktop\3.1.2dobjects_glsl\3.1.2dobjects_glsl\3.1.2dobjects_glsl.cpp(587): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\owner\desktop\3.1.2dobjects_glsl\3.1.2dobjects_glsl\3.1.2dobjects_glsl.cpp(587): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\owner\desktop\3.1.2dobjects_glsl\3.1.2dobjects_glsl\3.1.2dobjects_glsl.cpp(976): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\owner\desktop\3.1.2dobjects_glsl\3.1.2dobjects_glsl\3.1.2dobjects_glsl.cpp(998): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\owner\desktop\3.1.2dobjects_glsl\3.1.2dobjects_glsl\3.1.2dobjects_glsl.cpp(1352): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+c:\users\owner\desktop\3.1.2dobjects_glsl\3.1.2dobjects_glsl\3.1.2dobjects_glsl.cpp(1372): warning C4244: '=': 'float'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\owner\desktop\3.1.2dobjects_glsl\3.1.2dobjects_glsl\3.1.2dobjects_glsl.cpp(1373): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+  4 of 100 functions ( 4.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  3.1.2DObjects_GLSL.vcxproj -> C:\Users\owner\Desktop\3.1.2DObjects_GLSL\x64\Release\3.1.2DObjects_GLSL.exe

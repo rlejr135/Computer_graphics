@@ -1,0 +1,57 @@
+﻿  4.9.Our_House_V_0.5_main.cpp
+c:\users\owner\desktop\그래픽스\hw2_s141602\4.9.our_house_v_0.5\4.9.our_house_v_0.5\4.9.our_house_v_0.5\object_definitions.h(56): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\owner\desktop\그래픽스\hw2_s141602\4.9.our_house_v_0.5\4.9.our_house_v_0.5\4.9.our_house_v_0.5\object_definitions.h(79): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+c:\users\owner\desktop\그래픽스\hw2_s141602\4.9.our_house_v_0.5\4.9.our_house_v_0.5\4.9.our_house_v_0.5\object_definitions.h(110): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 'strcpy' 선언을 참조하십시오.
+c:\users\owner\desktop\그래픽스\hw2_s141602\4.9.our_house_v_0.5\4.9.our_house_v_0.5\4.9.our_house_v_0.5\object_definitions.h(127): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 'strcpy' 선언을 참조하십시오.
+c:\users\owner\desktop\그래픽스\hw2_s141602\4.9.our_house_v_0.5\4.9.our_house_v_0.5\4.9.our_house_v_0.5\object_definitions.h(156): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 'strcpy' 선언을 참조하십시오.
+c:\users\owner\desktop\그래픽스\hw2_s141602\4.9.our_house_v_0.5\4.9.our_house_v_0.5\4.9.our_house_v_0.5\object_definitions.h(215): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 'strcpy' 선언을 참조하십시오.
+c:\users\owner\desktop\그래픽스\hw2_s141602\4.9.our_house_v_0.5\4.9.our_house_v_0.5\4.9.our_house_v_0.5\object_definitions.h(231): warning C4305: '=': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\owner\desktop\그래픽스\hw2_s141602\4.9.our_house_v_0.5\4.9.our_house_v_0.5\4.9.our_house_v_0.5\object_definitions.h(234): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 'strcpy' 선언을 참조하십시오.
+c:\users\owner\desktop\그래픽스\hw2_s141602\4.9.our_house_v_0.5\4.9.our_house_v_0.5\4.9.our_house_v_0.5\object_definitions.h(255): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 'strcpy' 선언을 참조하십시오.
+c:\users\owner\desktop\그래픽스\hw2_s141602\4.9.our_house_v_0.5\4.9.our_house_v_0.5\4.9.our_house_v_0.5\object_definitions.h(306): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 'strcpy' 선언을 참조하십시오.
+c:\users\owner\desktop\그래픽스\hw2_s141602\4.9.our_house_v_0.5\4.9.our_house_v_0.5\4.9.our_house_v_0.5\object_definitions.h(327): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 'strcpy' 선언을 참조하십시오.
+c:\users\owner\desktop\그래픽스\hw2_s141602\4.9.our_house_v_0.5\4.9.our_house_v_0.5\4.9.our_house_v_0.5\object_definitions.h(350): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 'strcpy' 선언을 참조하십시오.
+c:\users\owner\desktop\그래픽스\hw2_s141602\4.9.our_house_v_0.5\4.9.our_house_v_0.5\4.9.our_house_v_0.5\object_definitions.h(374): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 'strcpy' 선언을 참조하십시오.
+c:\users\owner\desktop\그래픽스\hw2_s141602\4.9.our_house_v_0.5\4.9.our_house_v_0.5\4.9.our_house_v_0.5\object_definitions.h(397): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 'strcpy' 선언을 참조하십시오.
+c:\users\owner\desktop\그래픽스\hw2_s141602\4.9.our_house_v_0.5\4.9.our_house_v_0.5\4.9.our_house_v_0.5\object_definitions.h(420): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 'strcpy' 선언을 참조하십시오.
+c:\users\owner\desktop\그래픽스\hw2_s141602\4.9.our_house_v_0.5\4.9.our_house_v_0.5\4.9.our_house_v_0.5\object_definitions.h(439): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 'strcpy' 선언을 참조하십시오.
+c:\users\owner\desktop\그래픽스\hw2_s141602\4.9.our_house_v_0.5\4.9.our_house_v_0.5\4.9.our_house_v_0.5\object_definitions.h(554): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\owner\desktop\그래픽스\hw2_s141602\4.9.our_house_v_0.5\4.9.our_house_v_0.5\4.9.our_house_v_0.5\object_definitions.h(554): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+c:\users\owner\desktop\그래픽스\hw2_s141602\4.9.our_house_v_0.5\4.9.our_house_v_0.5\4.9.our_house_v_0.5\object_definitions.h(634): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\owner\desktop\그래픽스\hw2_s141602\4.9.our_house_v_0.5\4.9.our_house_v_0.5\4.9.our_house_v_0.5\object_definitions.h(640): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: 'fscanf' 선언을 참조하십시오.
+c:\users\owner\desktop\그래픽스\hw2_s141602\4.9.our_house_v_0.5\4.9.our_house_v_0.5\4.9.our_house_v_0.5\object_definitions.h(653): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: 'fscanf' 선언을 참조하십시오.
+c:\users\owner\desktop\그래픽스\hw2_s141602\4.9.our_house_v_0.5\4.9.our_house_v_0.5\4.9.our_house_v_0.5\object_definitions.h(701): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: 'sprintf' 선언을 참조하십시오.
+c:\users\owner\desktop\그래픽스\hw2_s141602\4.9.our_house_v_0.5\4.9.our_house_v_0.5\4.9.our_house_v_0.5\object_definitions.h(842): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\owner\desktop\그래픽스\hw2_s141602\4.9.our_house_v_0.5\4.9.our_house_v_0.5\4.9.our_house_v_0.5\object_definitions.h(848): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: 'fscanf' 선언을 참조하십시오.
+c:\users\owner\desktop\그래픽스\hw2_s141602\4.9.our_house_v_0.5\4.9.our_house_v_0.5\4.9.our_house_v_0.5\object_definitions.h(857): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: 'fscanf' 선언을 참조하십시오.
+c:\users\owner\desktop\그래픽스\hw2_s141602\4.9.our_house_v_0.5\4.9.our_house_v_0.5\4.9.our_house_v_0.5\4.9.our_house_v_0.5_main.cpp(1011): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  LoadShaders.cpp
+c:\users\owner\desktop\그래픽스\hw2_s141602\4.9.our_house_v_0.5\4.9.our_house_v_0.5\4.9.our_house_v_0.5\shaders\loadshaders.cpp(11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+  코드를 생성하고 있습니다.
+  130 of 133 functions (97.7%) were compiled, the rest were copied from previous compilation.
+    17 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  4.9.Our_House_V_0.5.vcxproj -> C:\Users\owner\Desktop\그래픽스\HW2_S141602\4.9.Our_House_V_0.5\4.9.Our_House_V_0.5\x64\Release\4.9.Our_House_V_0.5.exe

@@ -1,0 +1,15 @@
+﻿  3.1.2DObjects_GLSL.cpp
+3.1.2DObjects_GLSL.cpp(632): warning C4101: 'delx' :참조되지 않은 지역 변수입니다.
+3.1.2DObjects_GLSL.cpp(632): warning C4101: 's' :참조되지 않은 지역 변수입니다.
+3.1.2DObjects_GLSL.cpp(632): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+3.1.2DObjects_GLSL.cpp(631): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+3.1.2DObjects_GLSL.cpp(632): warning C4101: 'dels' :참조되지 않은 지역 변수입니다.
+3.1.2DObjects_GLSL.cpp(632): warning C4101: 'r' :참조되지 않은 지역 변수입니다.
+3.1.2DObjects_GLSL.cpp(632): warning C4101: 'delr' :참조되지 않은 지역 변수입니다.
+3.1.2DObjects_GLSL.cpp(791): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  코드를 생성하고 있습니다.
+  71 of 75 functions (94.7%) were compiled, the rest were copied from previous compilation.
+    14 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  Temp.vcxproj -> C:\Users\grmillet\Desktop\Temp\Release\Temp.exe
